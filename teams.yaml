@@ -1,0 +1,16 @@
+teams:
+    HRS1:
+        name: Hills Road Sixth Form College (Team 1)
+        rookie: No
+    HRS2:
+        name: Hills Road Sixth Form College (Team 2)
+        rookie: No
+    KEG:
+        name: KEGS Chelmsford
+        rookie: No
+    MCK:
+        name: The Malay College Kuala Kangsar
+        rookie: Yes
+    TKC:
+        name: Kolej Tunku Kurshiah
+        rookie: Yes

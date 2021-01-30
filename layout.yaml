@@ -1,0 +1,9 @@
+teams:
+  - name: the-venue
+    display_name: The Venue
+    teams:
+      - HRS1
+      - HRS2
+      - KEG
+      - MCK
+      - TKC

@@ -1,0 +1,54 @@
+match_slot_lengths:
+  pre: 30
+  match: 120
+  post: 30
+  total: 180
+#
+# Various staging related times, in seconds before the actual match start
+staging:
+  # The earliest teams can present themselves for a match
+  opens: 300
+  # The time by which teams _must_ be in staging
+  closes: 120
+  # How long staging is open for; equal to `opens - closes`
+  duration: 180
+  # How long before the start of the match to signal to shepherds they
+  # should start looking for teams
+  signal_shepherds:
+    Shepherd: 180
+  # How long before the start of the match to signal to teams they should
+  # go to staging
+  signal_teams: 180
+#
+timezone: Europe/London
+#
+delays: []
+#
+match_periods:
+  league:
+  - start_time: 2021-01-30 12:05:00+00:00
+    end_time: 2021-01-30 13:35:00+00:00
+    max_end_time: 2021-01-16 14:00:00+00:00
+    description: Freindlies 2 (January)
+
+# Scheduled time for the finals tie-breaker, if any
+# This is an absolute value and ignores the delay values
+tiebreaker:
+
+league:
+  # Extra spacing before an arbitrary set of matches
+  # This value is ignored for matches which occur at the start of a period
+  # since no additional time is needed there.
+  extra_spacing: []
+#
+knockout:
+  static: true
+#
+static_knockout:
+  teams_per_arena: 2
+  matches:
+    0:
+      0:
+        arena: Simulator
+        start_time: 2021-05-01 15:49:30+01:00
+        teams: [S1, S2]

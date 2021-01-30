@@ -1,0 +1,25 @@
+matches:
+  10021:
+    Simulator: [TKC, HRS1]
+  10022:
+    Simulator: [KEG, MCK]
+  10023:
+    Simulator: [HRS2, TKC]
+  10024:
+    Simulator: [HRS1, MCK]
+  10025:
+    Simulator: [TKC, KEG]
+  10026:
+    Simulator: [MCK, TKC]
+  10027:
+    Simulator: [HRS1, HRS2]
+  10028:
+    Simulator: [HRS2, KEG]
+  10029:
+    Simulator: [KEG, HRS1]
+  10030:
+    Simulator: [MCK, HRS2]
+
+  # Convince SRComp not to compute the finals.
+  10031:
+    Simulator: [null, null]
