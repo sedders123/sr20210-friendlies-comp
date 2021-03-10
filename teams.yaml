@@ -11,6 +11,18 @@ teams:
     MCK:
         name: The Malay College Kuala Kangsar
         rookie: Yes
+    SOG1:
+        name: Saint Olaves Grammar School (Team 1)
+        rookie: Yes
+    SWI:
+        name: South Wilts Grammar School
+        rookie: No
     TKC:
         name: Kolej Tunku Kurshiah
+        rookie: Yes
+    WER:
+        name: We Robot
+        rookie: Yes
+    YSH:
+        name: Yayasan Sultan Haji Hassanal Bolkiah
         rookie: Yes
