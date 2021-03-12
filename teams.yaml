@@ -5,6 +5,7 @@ teams:
     HRS2:
         name: Hills Road Sixth Form College (Team 2)
         rookie: No
+        dropped_out_after: 10030
     HRS4:
         name: Hills Road Sixth Form College (Team 4)
         rookie: No
