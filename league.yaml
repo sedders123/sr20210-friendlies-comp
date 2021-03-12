@@ -20062,6 +20062,62 @@ matches:
   10030:
     Simulator: [MCK, HRS2]
 
-  # Convince SRComp not to compute the finals.
   10031:
+    Simulator: [null, null]
+  10032:
+    Simulator: [null, null]
+  10033:
+    Simulator: [null, null]
+  10034:
+    Simulator: [null, null]
+  10035:
+    Simulator: [null, null]
+  10036:
+    Simulator: [null, null]
+  10037:
+    Simulator: [null, null]
+  10038:
+    Simulator: [null, null]
+  10039:
+    Simulator: [null, null]
+
+  10040:
+    Simulator: [HRS4, SOG1]
+  10041:
+    Simulator: [YSH, TKC]
+  10042:
+    Simulator: [WER, SWI]
+  10043:
+    Simulator: [HRS1, MCK]
+  10044:
+    Simulator: [KEG, HRS4]
+  10045:
+    Simulator: [YSH, SOG1]
+  10046:
+    Simulator: [TKC, WER]
+  10047:
+    Simulator: [SWI, HRS1]
+  10048:
+    Simulator: [MCK, KEG]
+  10049:
+    Simulator: [SOG1, TKC]
+  10050:
+    Simulator: [WER, HRS1]
+  10051:
+    Simulator: [SWI, MCK]
+  10052:
+    Simulator: [KEG, YSH]
+  10053:
+    Simulator: [TKC, HRS4]
+  10054:
+    Simulator: [SOG1, WER]
+  10055:
+    Simulator: [HRS1, KEG]
+  10056:
+    Simulator: [HRS4, SWI]
+  10057:
+    Simulator: [MCK, YSH]
+
+  # Convince SRComp not to compute the finals.
+  10058:
     Simulator: [null, null]
