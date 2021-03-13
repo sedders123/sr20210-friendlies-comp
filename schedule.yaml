@@ -45,7 +45,7 @@ match_periods:
     max_end_time: 2020-01-31 00:30:00+00:00
     description: Dummy League
 
-  - start_time: 2021-03-12 00:14:00+00:00
+  - start_time: 2021-03-13 00:14:00+00:00
     end_time: 2021-03-13 12:57:00+00:00
     max_end_time: 2021-03-13 14:00:00+00:00
     description: Freindlies 3 (March)
