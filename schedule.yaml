@@ -50,6 +50,11 @@ match_periods:
     max_end_time: 2021-03-13 14:00:00+00:00
     description: Freindlies 3 (March)
 
+  - start_time: 2021-04-03 12:05:00+01:00
+    end_time: 2021-04-03 12:20:00+01:00
+    max_end_time: 2021-04-03 13:30:00+01:00
+    description: Friendlies 4 (April 3rd)
+
   #
   knockout:
   - start_time: 2021-05-01 15:10:00+01:00

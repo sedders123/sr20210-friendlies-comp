@@ -30,3 +30,6 @@ teams:
     YSH:
         name: Yayasan Sultan Haji Hassanal Bolkiah
         rookie: Yes
+    MAI:
+        name: Gymnasium Markt Indersdorf
+        rookie: No
