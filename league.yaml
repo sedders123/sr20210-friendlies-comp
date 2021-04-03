@@ -20118,6 +20118,19 @@ matches:
   10057:
     Simulator: [MCK, YSH]
 
-  # Convince SRComp not to compute the finals.
   10058:
+    Simulator: [KEG, MAI]
+  10059:
+    Simulator: [MAI, TKC]
+  10060:
+    Simulator: [TKC, KEG]
+  10061:
+    Simulator: [MAI, KEG]
+  10062:
+    Simulator: [TKC, MAI]
+  10063:
+    Simulator: [KEG, TKC]
+
+  # Convince SRComp not to compute the finals.
+  10064:
     Simulator: [null, null]
