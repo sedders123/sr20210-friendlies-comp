@@ -1,7 +1,4 @@
 teams:
-    HRS1:
-        name: Hills Road Sixth Form College (Team 1)
-        rookie: No
     HRS2:
         name: Hills Road Sixth Form College (Team 2)
         rookie: No
@@ -18,8 +15,11 @@ teams:
     MCK:
         name: The Malay College Kuala Kangsar
         rookie: Yes
-    SOG1:
-        name: Saint Olaves Grammar School (Team 1)
+    SOG2:
+        name: Saint Olaves Grammar School (Team 2)
+        rookie: Yes
+    SPA:
+        name: St Paul’s College
         rookie: Yes
     SWI:
         name: South Wilts Grammar School

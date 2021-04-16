@@ -2,13 +2,13 @@ teams:
   - name: the-venue
     display_name: The Venue
     teams:
-      - HRS1
       - HRS2
       - HRS4
       - KEG
       - MAI
       - MCK
-      - SOG1
+      - SOG2
+      - SPA
       - SWI
       - TKC
       - WER
