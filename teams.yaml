@@ -1,4 +1,8 @@
 teams:
+    HRS1:
+        name: Hills Road Sixth Form College (Team 1)
+        rookie: No
+        dropped_out_after: 10063
     HRS2:
         name: Hills Road Sixth Form College (Team 2)
         rookie: No
@@ -14,6 +18,10 @@ teams:
     MCK:
         name: The Malay College Kuala Kangsar
         rookie: Yes
+    SOG1:
+        name: Saint Olaves Grammar School (Team 1)
+        rookie: Yes
+        dropped_out_after: 10063
     SOG2:
         name: Saint Olaves Grammar School (Team 2)
         rookie: Yes
