@@ -20131,6 +20131,64 @@ matches:
   10063:
     Simulator: [KEG, TKC]
 
-  # Convince SRComp not to compute the finals.
   10064:
+    Simulator: [null, null]
+  10065:
+    Simulator: [null, null]
+  10066:
+    Simulator: [null, null]
+  10067:
+    Simulator: [null, null]
+  10068:
+    Simulator: [null, null]
+  10069:
+    Simulator: [null, null]
+
+  10070:
+    Simulator: [WER, HRS4]
+  10071:
+    Simulator: [SOG2, MAI]
+  10072:
+    Simulator: [MCK, TKC]
+  10073:
+    Simulator: [HRS2, KEG]
+  10074:
+    Simulator: [YSH, SWI]
+  10075:
+    Simulator: [SPA, WER]
+  10076:
+    Simulator: [HRS4, SOG2]
+  10077:
+    Simulator: [MAI, MCK]
+  10078:
+    Simulator: [TKC, HRS2]
+  10079:
+    Simulator: [KEG, YSH]
+  10080:
+    Simulator: [SWI, SPA]
+  10081:
+    Simulator: [WER, SOG2]
+  10082:
+    Simulator: [HRS4, MAI]
+  10083:
+    Simulator: [MCK, HRS2]
+  10084:
+    Simulator: [TKC, KEG]
+  10085:
+    Simulator: [SPA, YSH]
+  10086:
+    Simulator: [SWI, WER]
+  10087:
+    Simulator: [SOG2, MCK]
+  10088:
+    Simulator: [HRS2, SWI]
+  10089:
+    Simulator: [MAI, TKC]
+  10090:
+    Simulator: [KEG, SPA]
+  10091:
+    Simulator: [YSH, HRS4]
+
+  # Convince SRComp not to compute the finals.
+  10092:
     Simulator: [null, null]
