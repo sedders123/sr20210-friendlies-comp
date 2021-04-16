@@ -12,6 +12,9 @@ teams:
     KEG:
         name: KEGS Chelmsford
         rookie: No
+    MAI:
+        name: Gymnasium Markt Indersdorf
+        rookie: No
     MCK:
         name: The Malay College Kuala Kangsar
         rookie: Yes
@@ -30,6 +33,3 @@ teams:
     YSH:
         name: Yayasan Sultan Haji Hassanal Bolkiah
         rookie: Yes
-    MAI:
-        name: Gymnasium Markt Indersdorf
-        rookie: No
