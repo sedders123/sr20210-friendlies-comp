@@ -70,6 +70,16 @@ match_periods:
     max_end_time: 2020-04-24 00:30:00+00:00
     description: Dummy League
 
+  - start_time: 2021-05-01 12:05:00+01:00
+    end_time: 2021-05-01 13:10:00+01:00
+    max_end_time: 2021-05-01 14:00:00+01:00
+    description: Friendlies 6 (May 1st)
+
+  - start_time: 2020-05-02 00:00:00+00:00
+    end_time: 2020-05-02 00:15:00+00:00
+    max_end_time: 2020-05-02 00:30:00+00:00
+    description: Dummy League
+
   #
   knockout:
   - start_time: 2021-05-01 15:10:00+01:00
