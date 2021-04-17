@@ -65,10 +65,10 @@ match_periods:
     max_end_time: 2021-04-17 14:00:00+01:00
     description: Friendlies 5 (April 17th)
 
-  - start_time: 2021-04-24 00:00:00+00:00
-    end_time: 2021-04-24 00:15:00+00:00
-    max_end_time: 2021-04-24 00:30:00+00:00
-    description: Dummy League
+  - start_time: 2021-04-17 14:00:00+00:00
+    end_time: 2021-04-17 14:15:00+00:00
+    max_end_time: 2021-04-17 14:30:00+00:00
+    description: Volunteer matches
 
   - start_time: 2021-05-01 12:05:00+01:00
     end_time: 2021-05-01 13:10:00+01:00

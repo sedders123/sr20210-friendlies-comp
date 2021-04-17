@@ -20189,11 +20189,12 @@ matches:
   10091:
     Simulator: [YSH, HRS4]
 
-  # Convince SRComp not to compute the finals.
   10092:
-    Simulator: [null, null]
+    Simulator: [ALN, PLW]
   10093:
-    Simulator: [null, null]
+    Simulator: [PLW, ALN]
+
+
   10094:
     Simulator: [null, null]
   10095:

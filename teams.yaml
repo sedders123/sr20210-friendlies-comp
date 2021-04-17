@@ -40,3 +40,10 @@ teams:
     YSH:
         name: Yayasan Sultan Haji Hassanal Bolkiah
         rookie: Yes
+
+    ALN:
+        name: Alistair
+        rookie: No
+    PLW:
+        name: Peter
+        rookie: No
