@@ -1,0 +1,111 @@
+{
+    "match_number": 10051,
+    "arena_id": "Simulator",
+    "teams": {
+        "SWI": {
+            "zone": 0
+        },
+        "MCK": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 6.5040000000000004,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 13.056000000000001,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 19.184,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 26.224,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SZ",
+                    "time": 36.72,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SW",
+                    "time": 43.584,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BN",
+                    "time": 53.264,
+                    "locked": false
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 53.832,
+                    "locked": false
+                },
+                {
+                    "zone": 0,
+                    "station_code": "HV",
+                    "time": 59.184000000000005,
+                    "locked": false
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 83.44,
+                    "locked": false
+                },
+                {
+                    "zone": -1,
+                    "station_code": "BN",
+                    "time": 83.44,
+                    "locked": false
+                },
+                {
+                    "zone": -1,
+                    "station_code": "HV",
+                    "time": 83.44,
+                    "locked": false
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 85.34400000000001,
+                    "locked": false
+                },
+                {
+                    "zone": -1,
+                    "station_code": "SW",
+                    "time": 87.248,
+                    "locked": true
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "match_number": 10059,
+    "arena_id": "Simulator",
+    "teams": {
+        "MAI": {
+            "zone": 0
+        },
+        "TKC": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 8.736
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 15.128
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 24.0
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 31.88
+                },
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 38.728
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

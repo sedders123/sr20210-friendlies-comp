@@ -1,0 +1,54 @@
+{
+    "match_number": 10024,
+    "arena_id": "Simulator",
+    "teams": {
+        "HRS1": {
+            "zone": 0
+        },
+        "MCK": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 0,
+                    "station_code": "PN",
+                    "time": 3.68
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 5.896
+                },
+                {
+                    "zone": 0,
+                    "station_code": "EY",
+                    "time": 7.344
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 14.776
+                },
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 18.44
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 24.536
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 29.72
+                }
+            ]
+        }
+    }
+}

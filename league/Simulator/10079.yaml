@@ -1,0 +1,82 @@
+{
+    "match_number": 10079,
+    "arena_id": "Simulator",
+    "teams": {
+        "KEG": {
+            "zone": 0
+        },
+        "YSH": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 9.008000000000001
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 18.352
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 24.928
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 30.336000000000002
+                },
+                {
+                    "zone": 0,
+                    "station_code": "HA",
+                    "time": 36.944
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SZ",
+                    "time": 42.912
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PL",
+                    "time": 50.888
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 66.52
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PN",
+                    "time": 82.208
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TH",
+                    "time": 89.896
+                },
+                {
+                    "zone": 0,
+                    "station_code": "YT",
+                    "time": 103.11200000000001
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

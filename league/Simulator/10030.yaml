@@ -1,0 +1,34 @@
+{
+    "match_number": 10030,
+    "arena_id": "Simulator",
+    "teams": {
+        "MCK": {
+            "zone": 0
+        },
+        "HRS2": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 3.584
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 5.808
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 104.328
+                }
+            ]
+        }
+    }
+}

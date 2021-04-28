@@ -1,0 +1,34 @@
+{
+    "match_number": 10025,
+    "arena_id": "Simulator",
+    "teams": {
+        "TKC": {
+            "zone": 0
+        },
+        "KEG": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 4.624
+                },
+                {
+                    "zone": 1,
+                    "station_code": "PO",
+                    "time": 9.272
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PN",
+                    "time": 65.208
+                }
+            ]
+        }
+    }
+}

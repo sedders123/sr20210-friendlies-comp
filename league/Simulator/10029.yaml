@@ -1,0 +1,134 @@
+{
+    "match_number": 10029,
+    "arena_id": "Simulator",
+    "teams": {
+        "KEG": {
+            "zone": 0
+        },
+        "HRS1": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 4.264
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PN",
+                    "time": 4.968
+                },
+                {
+                    "zone": 0,
+                    "station_code": "EY",
+                    "time": 9.392
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 10.152000000000001
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 14.528
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 18.112000000000002
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 18.296
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 22.44
+                },
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 23.64
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 30.232
+                },
+                {
+                    "zone": 1,
+                    "station_code": "VB",
+                    "time": 33.768
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 34.6
+                },
+                {
+                    "zone": 1,
+                    "station_code": "VB",
+                    "time": 36.608000000000004
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 67.272
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 70.368
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 76.4
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 79.104
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 85.112
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 87.84
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 93.824
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 96.57600000000001
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 102.536
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 105.312
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "match_number": 10080,
+    "arena_id": "Simulator",
+    "teams": {
+        "SWI": {
+            "zone": 0
+        },
+        "SPA": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 5.0
+                },
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 5.4
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 11.872
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 11.88
+                },
+                {
+                    "zone": 1,
+                    "station_code": "PL",
+                    "time": 16.288
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 18.552
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BE",
+                    "time": 19.456
+                },
+                {
+                    "zone": 1,
+                    "station_code": "VB",
+                    "time": 24.696
+                },
+                {
+                    "zone": 1,
+                    "station_code": "OX",
+                    "time": 30.776
+                },
+                {
+                    "zone": -1,
+                    "station_code": "TS",
+                    "time": 30.776
+                },
+                {
+                    "zone": 1,
+                    "station_code": "TS",
+                    "time": 35.808
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

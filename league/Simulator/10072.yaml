@@ -1,0 +1,147 @@
+{
+    "match_number": 10072,
+    "arena_id": "Simulator",
+    "teams": {
+        "MCK": {
+            "zone": 0
+        },
+        "TKC": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 7.208
+                },
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 8.192
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 15.96
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 16.48
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 23.744
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 26.592000000000002
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 30.472
+                },
+                {
+                    "zone": -1,
+                    "station_code": "BE",
+                    "time": 32.480000000000004
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 34.488
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 36.384
+                },
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 42.12
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SZ",
+                    "time": 42.936
+                },
+                {
+                    "zone": -1,
+                    "station_code": "SZ",
+                    "time": 44.84
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SZ",
+                    "time": 46.848
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SF",
+                    "time": 55.304
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BN",
+                    "time": 56.072
+                },
+                {
+                    "zone": -1,
+                    "station_code": "SW",
+                    "time": 56.072
+                },
+                {
+                    "zone": -1,
+                    "station_code": "BN",
+                    "time": 57.976
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BN",
+                    "time": 59.984
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 65.52
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 76.47200000000001
+                },
+                {
+                    "zone": -1,
+                    "station_code": "SW",
+                    "time": 78.376
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 86.712
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 93.424
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

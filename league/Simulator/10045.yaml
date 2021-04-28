@@ -1,0 +1,45 @@
+{
+    "match_number": 10045,
+    "arena_id": "Simulator",
+    "teams": {
+        "YSH": {
+            "zone": 0
+        },
+        "SOG1": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 73.736,
+                    "locked": false
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 89.208,
+                    "locked": false
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 105.768,
+                    "locked": false
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}

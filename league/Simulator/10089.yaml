@@ -1,0 +1,132 @@
+{
+    "match_number": 10089,
+    "arena_id": "Simulator",
+    "teams": {
+        "MAI": {
+            "zone": 0
+        },
+        "TKC": {
+            "zone": 1
+        }
+    },
+    "duration": 120,
+    "recording_config": {
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "quality": 100
+    },
+    "arena_zones": {
+        "other": {
+            "territory_claims": [
+                {
+                    "zone": 0,
+                    "station_code": "OX",
+                    "time": 4.936
+                },
+                {
+                    "zone": 1,
+                    "station_code": "BN",
+                    "time": 7.864
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TS",
+                    "time": 11.272
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SW",
+                    "time": 15.952
+                },
+                {
+                    "zone": 0,
+                    "station_code": "VB",
+                    "time": 16.32
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BG",
+                    "time": 21.192
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PN",
+                    "time": 24.536
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SZ",
+                    "time": 26.184
+                },
+                {
+                    "zone": 1,
+                    "station_code": "HV",
+                    "time": 34.504
+                },
+                {
+                    "zone": 0,
+                    "station_code": "TH",
+                    "time": 34.528
+                },
+                {
+                    "zone": 1,
+                    "station_code": "YL",
+                    "time": 43.472
+                },
+                {
+                    "zone": 1,
+                    "station_code": "SF",
+                    "time": 56.784
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PL",
+                    "time": 57.792
+                },
+                {
+                    "zone": 0,
+                    "station_code": "BE",
+                    "time": 62.24
+                },
+                {
+                    "zone": 0,
+                    "station_code": "HA",
+                    "time": 67.024
+                },
+                {
+                    "zone": 0,
+                    "station_code": "SZ",
+                    "time": 72.032
+                },
+                {
+                    "zone": 0,
+                    "station_code": "HV",
+                    "time": 79.04
+                },
+                {
+                    "zone": 0,
+                    "station_code": "PO",
+                    "time": 86.672
+                },
+                {
+                    "zone": 0,
+                    "station_code": "YT",
+                    "time": 92.60000000000001
+                },
+                {
+                    "zone": 0,
+                    "station_code": "EY",
+                    "time": 98.288
+                },
+                {
+                    "zone": 0,
+                    "station_code": "FL",
+                    "time": 103.11200000000001
+                }
+            ],
+            "game_style": "end_state"
+        }
+    }
+}
