@@ -1,11 +1,11 @@
 {
-    "match_number": 10106,
+    "match_number": 10107,
     "arena_id": "Simulator",
     "teams": {
-        "KEG": {
+        "MAI": {
             "zone": 0
         },
-        "HRS4": {
+        "TKC": {
             "zone": 1
         }
     },
