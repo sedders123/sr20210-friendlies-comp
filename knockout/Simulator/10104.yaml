@@ -1,32 +1,32 @@
 {
-    "match_number": 10104,
-    "arena_id": "Simulator",
-    "teams": {
-        "KEG": {
-            "zone": 0
-        },
-        "MAI": {
-            "zone": 1
-        }
-    },
-    "duration": 5,
-    "recording_config": {
-        "resolution": {
-            "width": 1920,
-            "height": 1080
-        },
-        "quality": 100
-    },
+    "match_number": 10104, 
+    "arena_id": "Simulator", 
     "arena_zones": {
         "other": {
+            "game_style": "end_state", 
             "territory_claims": [
                 {
-                    "zone": 1,
-                    "station_code": "BN",
-                    "time": 4.864
+                    "station_code": "OX", 
+                    "zone": 0, 
+                    "time": 5.04
                 }
-            ],
-            "game_style": "end_state"
+            ]
+        }
+    }, 
+    "teams": {
+        "WER": {
+            "zone": 0
+        }, 
+        "SOG2": {
+            "zone": 1
+        }
+    }, 
+    "duration": 5, 
+    "recording_config": {
+        "quality": 100, 
+        "resolution": {
+            "width": 1920, 
+            "height": 1080
         }
     }
 }

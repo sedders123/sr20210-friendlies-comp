@@ -1,23 +1,23 @@
 {
-    "match_number": 10101, 
+    "match_number": 10111, 
     "arena_id": "Simulator", 
     "arena_zones": {
         "other": {
             "game_style": "end_state", 
             "territory_claims": [
                 {
-                    "station_code": "SN", 
-                    "zone": 1, 
+                    "station_code": "OX", 
+                    "zone": 0, 
                     "time": 5.04
                 }
             ]
         }
     }, 
     "teams": {
-        "TKC": {
+        "KEG": {
             "zone": 0
         }, 
-        "PLW2": {
+        "SWI": {
             "zone": 1
         }
     }, 

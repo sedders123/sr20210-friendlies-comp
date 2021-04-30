@@ -1,26 +1,32 @@
 {
-    "match_number": 10105,
-    "arena_id": "Simulator",
-    "teams": {
-        "TKC": {
-            "zone": 0
-        },
-        "HRS4": {
-            "zone": 1
-        }
-    },
-    "duration": 5,
-    "recording_config": {
-        "resolution": {
-            "width": 1920,
-            "height": 1080
-        },
-        "quality": 100
-    },
+    "match_number": 10105, 
+    "arena_id": "Simulator", 
     "arena_zones": {
         "other": {
-            "territory_claims": [],
-            "game_style": "end_state"
+            "game_style": "end_state", 
+            "territory_claims": [
+                {
+                    "station_code": "SN", 
+                    "zone": 1, 
+                    "time": 5.04
+                }
+            ]
+        }
+    }, 
+    "teams": {
+        "KEG": {
+            "zone": 1
+        }, 
+        "ALN2": {
+            "zone": 0
+        }
+    }, 
+    "duration": 5, 
+    "recording_config": {
+        "quality": 100, 
+        "resolution": {
+            "width": 1920, 
+            "height": 1080
         }
     }
 }

@@ -1,5 +1,5 @@
 {
-    "match_number": 10101, 
+    "match_number": 10112, 
     "arena_id": "Simulator", 
     "arena_zones": {
         "other": {
@@ -14,10 +14,10 @@
         }
     }, 
     "teams": {
-        "TKC": {
+        "ALN": {
             "zone": 0
         }, 
-        "PLW2": {
+        "HRS4": {
             "zone": 1
         }
     }, 

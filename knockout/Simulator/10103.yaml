@@ -1,26 +1,32 @@
 {
-    "match_number": 10103,
-    "arena_id": "Simulator",
-    "teams": {
-        "HRS4": {
-            "zone": 0
-        },
-        "SWI": {
-            "zone": 1
-        }
-    },
-    "duration": 5,
-    "recording_config": {
-        "resolution": {
-            "width": 1920,
-            "height": 1080
-        },
-        "quality": 100
-    },
+    "match_number": 10103, 
+    "arena_id": "Simulator", 
     "arena_zones": {
         "other": {
-            "territory_claims": [],
-            "game_style": "end_state"
+            "game_style": "end_state", 
+            "territory_claims": [
+                {
+                    "station_code": "OX", 
+                    "zone": 0, 
+                    "time": 5.04
+                }
+            ]
+        }
+    }, 
+    "teams": {
+        "MAI": {
+            "zone": 1
+        }, 
+        "SPA": {
+            "zone": 0
+        }
+    }, 
+    "duration": 5, 
+    "recording_config": {
+        "quality": 100, 
+        "resolution": {
+            "width": 1920, 
+            "height": 1080
         }
     }
 }
