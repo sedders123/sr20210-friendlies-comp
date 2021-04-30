@@ -47,3 +47,17 @@ teams:
     PLW:
         name: Peter
         rookie: No
+
+    ALN2:
+        name: Alistair 2
+        rookie: No
+    PLW2:
+        name: Peter 2
+        rookie: No
+
+    ALN3:
+        name: Alistair 3
+        rookie: No
+    PLW3:
+        name: Peter 3
+        rookie: No
